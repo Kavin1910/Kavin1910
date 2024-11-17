@@ -16,4 +16,4 @@ I'm a passionate Gen AI developer with a strong focus on leveraging machine lear
 * **Email:** nrkavin005@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/kavinnr-machine-learning/
 
-Let's collaborate on exciting AI projects! Feel free to reach out if you have any opportunities or would like to discuss potential collaborations.
+Let's collaborate on exciting AI projects!.
