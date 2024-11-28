@@ -6,7 +6,7 @@ I'm a passionate Gen AI developer with a strong focus on leveraging machine lear
 
 **Skills**
 
-* **Programming Languages:** Python, SQL
+* **Programming Languages:** HTML/CSS, Python, SQL, NOSQL, Javascript, GO
 * **Frameworks and Libraries:** TensorFlow, PyTorch, scikit-learn, Langchain
 * **Natural Language Processing (NLP):** Text generation, sentiment analysis, machine translation
 * **Computer Vision:** Image classification, object detection, generative models
