@@ -11,7 +11,7 @@ I'm a passionate Gen AI developer with a strong focus on leveraging machine lear
 * **Natural Language Processing (NLP):** Text generation, sentiment analysis, machine translation
 * **Computer Vision:** Image classification, object detection, generative models
 * **Reinforcement Learning:** Q-learning, Deep Q-Networks (DQNs)
-* **Cloud Platforms:** AWS, Azure
+* **Cloud Platforms:** Sagemaker,Bedrock,Vertex AI
 
 * **Email:** nrkavin005@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/kavinnr-machine-learning/
