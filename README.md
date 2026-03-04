@@ -1,8 +1,8 @@
-# Kavin N R - Gen AI Developer
+# Kavin N R - AI - Solution Architect
 
 **About Me**
 
-I'm a passionate Gen AI developer with a strong focus on leveraging machine learning and deep learning techniques to create innovative solutions. I'm driven by the potential of AI to revolutionize industries and solve real-world challenges.
+I'm a passionate AI - Solution Architect with a strong focus on leveraging machine learning and deep learning techniques to create innovative solutions. I'm driven by the potential of AI to revolutionize industries and solve real-world challenges.
 
 **Skills**
 
