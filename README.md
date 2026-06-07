@@ -7,13 +7,13 @@ I'm a passionate AI - Solution Architect with a strong focus on leveraging machi
 **Skills**
 
 * **Programming Languages:** HTML/CSS, Python, SQL, NOSQL, Javascript, GO
-* **Frameworks and Libraries:** TensorFlow, PyTorch, scikit-learn, Langchain
+* **Agentic Frameworks:** Langchain, Langraph,crewai, Microsoft copilot kit
+* **Monitoring:** Langfuse, Langsmith, Posthog
+* **Frameworks and Libraries:** TensorFlow, PyTorch, scikit-learn
 * **Natural Language Processing (NLP):** Text generation, sentiment analysis, machine translation
 * **Computer Vision:** Image classification, object detection, generative models
 * **Reinforcement Learning:** Q-learning, Deep Q-Networks (DQNs)
 * **Cloud Platforms:** Sagemaker,Bedrock,Vertex AI
 
 * **Email:** nrkavin005@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/kavinnr-machine-learning/
-
-Let's collaborate on exciting AI projects!.
+* **LinkedIn:** https://www.linkedin.com/in/kavinnr/
