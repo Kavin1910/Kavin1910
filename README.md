@@ -159,23 +159,6 @@ I'm a passionate **AI Solution Architect** focused on turning machine learning a
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- 🔧 Replace "your-github-username" with your actual GitHub username -->
-
-![Kavin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&no-frame=true&column=7&margin-w=8)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
